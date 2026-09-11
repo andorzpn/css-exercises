@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.A, .B {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+.A {
+    background-color: black;
+    color: white;
+}.B {
+    background-color: yellow;
+    }
